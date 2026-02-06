@@ -111,14 +111,6 @@ Une application interactive a été développée pour :
 
 ---
 
-## Rapport
-
-Le rapport détaillé du projet (méthodologie, résultats, interprétations) est disponible au format PDF :
-
-[ANALYSE DE SENTIMENTS[1].pdf]
-
----
-
 ## Cadre du projet
 
 * **Type** : Projet académique
@@ -141,8 +133,8 @@ Le rapport détaillé du projet (méthodologie, résultats, interprétations) es
 
 ---
 
-## Auteur
+## Auteurs
 
-DJEDJE Emmanuel Levy
-
-Étudiant en Data Science
+DJEDJE EMMANUEL LEVY 
+FOFANA WAKOU SOULEYMANE JASON 
+YAKE CHRISTELLE REBECCA
