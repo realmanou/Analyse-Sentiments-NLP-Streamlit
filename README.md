@@ -23,7 +23,7 @@ Les notes attribuées par les utilisateurs ne reflètent pas toujours fidèlemen
 * **Source** : Web scraping de la plateforme TripAdvisor
 * **Type de données** : Avis textuels + notes (1 à 5 étoiles)
 * **Nombre d’avis** : 657
-* **Période couverte** : septembre 2025
+* **Période couverte** :  Novembre 2025
 * **Langue** : Français
 
 Les données présentent un **biais positif**, typique des plateformes d’avis, justifiant l’usage de techniques NLP avancées.
