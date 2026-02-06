@@ -115,7 +115,7 @@ Une application interactive a été développée pour :
 
 Le rapport détaillé du projet (méthodologie, résultats, interprétations) est disponible au format PDF :
 
-📄 **Analyse_sentiments_TripAdvisor.pdf**
+[ANALYSE DE SENTIMENTS[1].pdf]
 
 ---
 
